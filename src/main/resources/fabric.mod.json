@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "glinting",
+  "version": "${version}",
+  "name": "Custom Glint",
+  "description": "Recolor the enchantment glint. Type a hex code or drag the sliders and watch it change live.",
+  "authors": [
+    "ITz_ERR0R",
+    "alienmc"
+  ],
+  "contributors": [
+    "nobeltrobel",
+    "sarionteralt",
+    "marc1i",
+    "asian_ewan"
+  ],
+  "license": "MIT",
+  "icon": "assets/glinting/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.glinting.GlintingClient"
+    ]
+  },
+  "depends": {
+    "minecraft": "~1.21.11",
+    "fabricloader": ">=0.18.0",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}

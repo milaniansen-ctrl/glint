@@ -1,0 +1,18 @@
+{
+  "key.category.glinting.main": "Custom Glint",
+  "key.glinting.open": "Open Custom Glint Settings",
+  "glinting.screen.title": "Custom Glint",
+  "glinting.tab.glint": "Glint",
+  "glinting.tab.friends": "Friends",
+  "glinting.tab.experience": "Experience",
+  "glinting.hex": "Hex",
+  "glinting.hue": "Colour",
+  "glinting.strength": "Glint Strength",
+  "glinting.enabled.on": "Custom Glint: ON",
+  "glinting.enabled.off": "Custom Glint: OFF",
+  "glinting.reset": "Reset to Vanilla",
+  "glinting.namemc": "NameMC",
+  "glinting.discord": "Discord",
+  "glinting.exp.dev": "Dev on Unstable Mayhem",
+  "glinting.exp.jrmod": "Jr Mod on Unstable Eclipse"
+}
